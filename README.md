@@ -1,1 +1,2 @@
 # Mockito_learning
+This repository was used for learning Mockito, following Aneesh Mistry "Complete JUnit & Mockito Tutorial Course: From Zero to Hero 2022" https://www.youtube.com/watch?v=0ZtU3X9n6tI&t=5674s
